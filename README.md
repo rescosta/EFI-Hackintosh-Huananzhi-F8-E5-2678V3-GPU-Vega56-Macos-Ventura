@@ -3,7 +3,7 @@ OPENCORE
 MOTHERBORARD: EFI Hackintosh Huananzhi F8 
 PROCESSOR: E5 2678V3
 GPU: Vega56 
-MACOS: Ventura 13.4 or higher (Sequoia 15.0 Included)
+MACOS: Ventura 13.4 or higher
 
 
 https://github.com/acidanthera/OpenCorePkg/releases
